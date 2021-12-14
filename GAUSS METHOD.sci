@@ -1,6 +1,4 @@
-//Abrego, Johat 8-975-253      
-//Edwards, Tiffany 8-984-56 
-//Villarreal, Ángel 8-982-1923 
+
 
 function [deter,sol] = gauss ( a , b )
 
