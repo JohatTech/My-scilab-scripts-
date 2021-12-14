@@ -1,5 +1,3 @@
-
-function  f2 =poli65(x)
-        f2 = = –1 + 5.5x – 4x2
- + 0.5x3 c
+function f1=cuadl(x)
+    f1=x.^2-4;
 endfunction

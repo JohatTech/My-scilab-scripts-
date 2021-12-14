@@ -1,4 +1,3 @@
-
-function  f2  =  pow8(x)
-    f2 = x.^8-1;
+function f1=pow8(x)
+    f1=x.^8-1;
 endfunction
